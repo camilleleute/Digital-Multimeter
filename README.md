@@ -1,4 +1,4 @@
-## P2 - Digital Multimeter
+# P2 - Digital Multimeter
 
 ## Reference Materials
 - STM32L4xxxx Reference Manual (RM) – General Purpose Timers, ADC, USART
